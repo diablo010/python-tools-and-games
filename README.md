@@ -89,14 +89,66 @@ python "file_name.py"
 
 ## 🎮Games
 <!--GAMES_START-->
-(list of games will appear here)
+## 🎮 Games
+- [Dummy](Games/Dummy)
+- [General](Games/General)
+- [Quiz](Quiz)
+- [Game](Game)
+- [auction](Games/auction)
+- [black_jack](Games/black_jack)
+- [board_filling_game](Games/board_filling_game)
+- [checkers](Games/checkers)
+- [chin_chiro](Games/chin_chiro)
+- [comp_sci_quiz](Games/comp_sci_quiz)
+- [etch_a_sketch](Games/etch_a_sketch)
+- [gambler](Games/gambler)
+- [guess_the_number](Games/guess_the_number)
+- [hangman](Games/hangman)
+- [ludo_king](Games/ludo_king)
+- [magic8ball](Games/magic8ball)
+- [memory_game](Games/memory_game)
+- [minesweeper](Games/minesweeper)
+- [pizza_palour](Games/pizza_palour)
+- [pong](Games/pong)
+- [road_crossing](Games/road_crossing)
+- [rock_paper_scissors](Games/rock_paper_scissors)
+- [slot_machine](Games/slot_machine)
+- [snake_game](Games/snake_game)
+- [state_guessing](Games/state_guessing)
+- [tic_tac_toe](Games/tic_tac_toe)
+- [treasure_Island](Games/treasure_Island)
+- [turtle_racing_bet](Games/turtle_racing_bet)
 <!--GAMES_END-->
 <br />
 
 
 ## 🛠️Tools
 <!--TOOLS_START-->
-(list of tools will appear here)
+## 🛠️ Tools
+- [AutoWiFiCheck](Tools/AutoWiFiCheck)
+- [Expense](Tools/Expense)
+- [Tracker](Tracker)
+- [Image](Tools/Image)
+- [encoding](encoding)
+- [and](and)
+- [decoding](decoding)
+- [Image_resizer](Tools/Image_resizer)
+- [NATO_alphabet_translator](Tools/NATO_alphabet_translator)
+- [Password_strength_checker](Tools/Password_strength_checker)
+- [binary_converter](Tools/binary_converter)
+- [bluetooth_scanner](Tools/bluetooth_scanner)
+- [calculator](Tools/calculator)
+- [cookie_macro](Tools/cookie_macro)
+- [custom_password_generator](Tools/custom_password_generator)
+- [distance_calculator](Tools/distance_calculator)
+- [encoding](Tools/encoding)
+- [kanye_says](Tools/kanye_says)
+- [merge_pdf](Tools/merge_pdf)
+- [pomodoro_timer](Tools/pomodoro_timer)
+- [qrcode_gen](Tools/qrcode_gen)
+- [remove_duplicates](Tools/remove_duplicates)
+- [text_summarizer](Tools/text_summarizer)
+- [tip_calculator](Tools/tip_calculator)
 <!--TOOLS_END-->
 
 <br />
