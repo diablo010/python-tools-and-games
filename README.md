@@ -115,6 +115,7 @@ python "file_name.py"
 - [rock_paper_scissors](Games/rock_paper_scissors)
 - [slot_machine](Games/slot_machine)
 - [snake_game](Games/snake_game)
+- [solitaire](Games/solitaire)
 - [state_guessing](Games/state_guessing)
 - [tic_tac_toe](Games/tic_tac_toe)
 - [treasure_Island](Games/treasure_Island)
