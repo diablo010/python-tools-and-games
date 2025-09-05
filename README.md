@@ -100,6 +100,7 @@ python "file_name.py"
 - [checkers](Games/checkers)
 - [chin_chiro](Games/chin_chiro)
 - [comp_sci_quiz](Games/comp_sci_quiz)
+- [dummmmyyyy](Games/dummmmyyyy)
 - [etch_a_sketch](Games/etch_a_sketch)
 - [gambler](Games/gambler)
 - [guess_the_number](Games/guess_the_number)
