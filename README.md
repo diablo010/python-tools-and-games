@@ -133,6 +133,7 @@ python "file_name.py"
 - [and](and)
 - [decoding](decoding)
 - [Image_resizer](Tools/Image_resizer)
+- [MicCheck](Tools/MicCheck)
 - [NATO_alphabet_translator](Tools/NATO_alphabet_translator)
 - [Password_strength_checker](Tools/Password_strength_checker)
 - [binary_converter](Tools/binary_converter)
