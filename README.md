@@ -94,6 +94,7 @@ python "file_name.py"
 - [General](Games/General)
 - [Quiz](Quiz)
 - [Game](Game)
+- [GuesstheLyric](Games/GuesstheLyric)
 - [auction](Games/auction)
 - [black_jack](Games/black_jack)
 - [board_filling_game](Games/board_filling_game)
